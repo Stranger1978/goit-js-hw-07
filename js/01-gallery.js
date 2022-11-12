@@ -7,7 +7,7 @@ import { galleryItems } from './gallery-items.js';
 //addLinkScript.insertAdjacentHTML('beforebegin', `<script src="https://cdn.jsdelivr.net/npm/basiclightbox@5.0.4/dist/basicLightbox.min.js"></script>`);
 
 // Створення галереї по шаблону
-const body = document.body;
+//const body = document.body;
 const imageGalleryContainer = document.querySelector('.gallery');
 const imageGalleryMarkup = createImageGalleryMarkup(galleryItems);  
 
